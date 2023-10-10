@@ -1,16 +1,18 @@
-### Hi there 👋
+## Oi, eu sou a Mylena 👋
+Sou residente em Inteligência Artificial no HUB de IA do SENAI, aplicando Machine Learning para resolver desafios industriais. Além disso, estou comprometida em ampliar meu conjunto de habilidades e me tornar uma desenvolvedora Front-End. Estou mergulhando no mundo do desenvolvimento web, aprendendo tecnologias e linguagens como HTML, CSS e JavaScript, com o objetivo de criar interfaces de usuário atraentes e funcionais. Minha trajetória acadêmica inclui um doutorado em Física na UFPR, onde estou concentrada na pesquisa da fotoionização de moléculas de interesse biológico, como o benzeno e uma mistura térmica dos confôrmeros da glicina. Para essa pesquisa, aplico métodos avançados, como o método iterativo de Schwinger, e utilizo o pacote e-PolyScat para obter seções de choque de fotoionização e parâmetros de assimetria.
 
-<!--
-**mhortz/mhortz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formação Acadêmica 🎓 
+#### 📊 Cientista de Dados
+* Residência em Inteligência Artificial pelo HUB-IA do Senai-PR, onde aplico técnicas de Machine Learning para resolver problemas industriais.
+#### 🧬 Mestre e doutoranda em Física
+* Graduada em Física pela UFPR.
+* Mestre em física atômica e molecular, pela UFPR, onde realizei o estudo teórico do espalhamento elástico de elétrons por isômeros de HClO2 e por uma mistura térmica de confôrmeros de glicina (C2H5NO2), utilizando o método da Matriz-R.
+* Doutoranda em física atômica e molecular, pela UFPR, onde estudo a fotoionização de moléculas de interesse biológico: moléculas de benzeno e uma mistura térmica dos confôrmeros da glicina. Utilizo o método iterativo de Schwinger para obter as seções de choque de fotoionização e os parâmetros de assimetria, com a utilização do pacote e-PolyScat.
+#### 💻 Futura Desenvolvedora Front-End
+* Estudante de Front-End na ADA, no programa Vem Ser Tech!
 
-Here are some ideas to get you started:
+### Entre em contato comigo
+<a href="https://www.linkedin.com/in/mhribas/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
